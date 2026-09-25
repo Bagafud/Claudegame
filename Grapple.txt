@@ -1,0 +1,18 @@
+=== Nightfall grapnel probe ===
+animator ctrl   : NF_Player
+vault state     : present
+anchors         : 17069
+blocking mask   : -1029
+
+shot 0  STREET (349, 0, -83)  ->  (376, 47, -129)    71 m  lift   47   VAULT   landed 0,1 m from the ledge
+shot 1  STREET (146, 0, 135)  ->  (146, 54, 79)    78 m  lift   54   VAULT   landed 0,0 m from the ledge
+shot 2  STREET (206, 0, 181)  ->  (206, 59, 186)    59 m  lift   58   VAULT   landed 0,0 m from the ledge
+shot 3  STREET (-288, 0, 257)  ->  (-276, 17, 244)    24 m  lift   17   VAULT   landed 0,0 m from the ledge
+shot 4: STREET (312, 0, 340)  nothing hookable from here
+shot 5  STREET (97, 0, -161)  ->  (110, 44, -157)    46 m  lift   44   VAULT   landed 0,0 m from the ledge
+shot 6  roof   (-236, 16, 128)  ->  (-222, 27, 180)    55 m  lift   12   VAULT   landed 0,0 m from the ledge
+shot 7  roof   (236, 10, 312)  ->  (236, 11, 321)     9 m  lift    1   VAULT   landed 0,0 m from the ledge
+shot 8  roof   (-176, 59, 232)  ->  (-133, 59, 232)    43 m  lift    0   VAULT   landed 0,0 m from the ledge
+shot 9  roof   (124, 69, 44)  ->  (165, 93, 33)    48 m  lift   24   VAULT   landed 0,0 m from the ledge
+
+9/10 landed on the ledge, 0 finished inside the geometry.
