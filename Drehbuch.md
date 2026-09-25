@@ -1,3 +1,5 @@
+> **Überholt am 25.09.2026.** Die gültige Fassung der Story steht in `Nightfall-Story.md`. Diese Datei bleibt nur als Archiv.
+
 # NIGHTFALL — Drehbuch
 
 Ausgebaut aus `Story roter faden.txt`. Die Prämisse, die Figuren, der Twist und alle acht Missionen
