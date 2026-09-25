@@ -1,3 +1,5 @@
+> **Überholt am 25.09.2026.** Die gültige Fassung der Story steht in `Nightfall-Story.md`. Diese Datei bleibt nur als Archiv.
+
 # Nightfall — alle Dialoge und Voice Lines
 
 Stand 13.09.2026. Alles, was gesprochen oder gelesen wird: erst was im Spiel ist, dann was geplant

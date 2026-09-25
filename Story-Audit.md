@@ -678,3 +678,17 @@ Ende*. Das kostet zwei Tage Zeitlinie, und die füllen 3b/3c sinnvoll aus.
 Sobald die sieben Punkte entschieden sind, kommt **Phase 2**: die überarbeitete Architektur mit
 endgültiger Zeitlinie, Beat für Beat pro Mission, und für jede Szene die Fragen: Was macht, sieht,
 weiß, glaubt und fühlt der Spieler? Erst danach wird in Phase 3 umgeschrieben.
+
+---
+
+## Nachtrag 25.09.2026 — Entscheidungen
+
+1. Okonkwo ist eine Frau: **Mira Okonkwo**.
+2. Das Ende hört mit deinem Dach-Bild auf. Cabert ist tot, das Ende bleibt offen. Kein
+   Wohnzimmer-Epilog. Der Chatverlauf läuft innerhalb deines Chatfensters, also vor dem Dach.
+3. Stimme der Nacht: fünf hörbare Momente (Prolog-Lachen, M3, M5-Lachen, M7, M8).
+4. Zeitlinie: drei Tage, Coup am **Mittwoch 08:00**. Der Mittwoch ist das Motiv.
+5. Die Knöpfe heißen **[VERNICHTEN] / [FERTIGSTELLEN]**. M3 holt die Daten für den Einbruch.
+6. 3a gestrichen, 3b und 3c in M4.
+
+Umgesetzt in `Nightfall-Story.md`.
